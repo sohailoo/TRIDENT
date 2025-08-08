@@ -1217,6 +1217,7 @@ encoder_registry = {
     "uni_v2": UNIv2InferenceEncoder,
     "ctranspath": CTransPathInferenceEncoder,
     "phikon": PhikonInferenceEncoder,
+    "phikon_v2": Phikonv2InferenceEncoder,
     "resnet50": ResNet50InferenceEncoder,
     "gigapath": GigaPathInferenceEncoder,
     "virchow": VirchowInferenceEncoder,
